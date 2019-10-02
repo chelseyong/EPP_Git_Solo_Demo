@@ -1,4 +1,3 @@
 Version 2.0
 -----------
-I don't want to know about loren ipsum!
-  
+fun! 
